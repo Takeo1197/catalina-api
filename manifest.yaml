@@ -1,0 +1,6 @@
+---
+applications:
+- name: api-bot
+  random-route: true
+  path: api-bot
+  memory: 128M
